@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá, meu nome é Mateus e tecnologia é minha vida! :computer: :hearts:
+Sou estudante de Desenvolvimento de Software com foco em **Back-end**.
+Esse lugar tem o intuito de armazenar e expor meus projetos criados e trabalhados com e sem colaboração, usando as tecnologias:
+    
+- **JavaScript**
+- **Banco de Dados**
+- **SQL**
 
-<!--
-**MateusFernandoL/MateusFernandoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *A evolução é a maior arte do ser humano* :leaves:
 
-Here are some ideas to get you started:
+### Para me achar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-008000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-fernando-a65662145/)
