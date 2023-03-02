@@ -6,6 +6,9 @@ Esse lugar tem o intuito de armazenar e expor meus projetos criados e trabalhado
 - **Banco de Dados**
 - **SQL**
 
+Readme de um projeto refêrencia do meu conhecimento:
+https://github.com/MateusFernandoL/Dindin#readme
+
 > *A evolução é a maior arte do ser humano* :leaves:
 
 ### Para me achar:
